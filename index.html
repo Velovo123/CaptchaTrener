@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZubrowkaLovit</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container" style="position: relative;">
+        <canvas id="mainCanvas" width="500" height="300"></canvas>
+        <div id="captchaContainer" style="position: absolute; top: 0; left: 0; width: 100%; height: 40%;opacity: 0; transition: opacity 0.01s;">
+            <canvas id="captchaCanvas" style="pointer-events: none;"></canvas>
+        </div>
+        <div class="input-container">
+            <canvas id="inputCanvas" style="pointer-events: none;"></canvas>
+        </div>
+    </div>  
+    <script src="script.js"></script>
+</body>
+</html>

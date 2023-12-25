@@ -1,5 +1,7 @@
 let captchaText = 0;
 let isOpened = false;
+let captchaStartTime;
+let capchaInputTime;
 
 document.addEventListener("DOMContentLoaded", function() {
     let captchaContainer = document.getElementById("captchaContainer");
@@ -7,7 +9,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function openCaptcha() {
         isOpened = true;
-        
+        captchaStartTime = Date.now();
+
         captchaContainer.style.opacity = 1;
 
         // Draw rectangular form with transparent background on captchaCanvas
@@ -24,7 +27,20 @@ document.addEventListener("DOMContentLoaded", function() {
 
         document.querySelector('.typeDiv input').removeAttribute('disabled');
         document.querySelector('.typeDiv').style.display = 'block';
+        let inputElement = document.getElementById('dope');
+        inputElement.focus();
         
+    }
+
+    function closeCaptcha(){
+        let capchaEndTime = Date.now();
+        isOpened=false;
+        captchaContainer.style.opacity = 0;
+        document.querySelector('.typeDiv').style.display = 'none';
+        let inputElement = document.getElementById('dope');
+        inputElement.value = '';
+        capchaInputTime = (capchaEndTime - captchaStartTime) / 1000;
+        TimeDisplay.innerText = capchaInputTime.toFixed(2);
     }
 
     function generateCaptcha() {
@@ -36,6 +52,13 @@ document.addEventListener("DOMContentLoaded", function() {
     document.addEventListener("keydown", function(event) {  
         if (event.key.toLowerCase() === 'n' && isOpened == false) {
             openCaptcha();
+            TimeDisplay.innerText = ' ';
+            event.preventDefault();
+        } 
+        if (event.key === 'Enter') {
+            closeCaptcha();
+        event.preventDefault();
         }
+
     });
 });

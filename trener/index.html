@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZubrowkaLovit</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="container" style="position: relative;">
+        <canvas id="mainCanvas" width="500" height="300"></canvas>
+        <div id="captchaContainer" style="position: absolute; top: 15%; left: 0; width: 100%; height: 30%;opacity: 0; transition: opacity 0.01s;">
+            <canvas id="captchaCanvas" style="pointer-events: none;"></canvas>
+        </div>
+        <div class="input-container">
+            <div class="typeDiv" style="user-select: none;">
+                <div class="headline">Проверка на робота</div>
+                <div class="desc">Введите <span>5</span> символов, которые видно на <span>вашем</span> экране</div>
+                <div class="enter">
+                    <input type="text" name="text" id="megasuperbebra" autocomplete="off" disabled>			
+                    <button id="send">Принять</button>
+                    <button id="cancel">Отмена</button>
+                </div>
+            </div>
+        </div>
+    </div>  
+    <script src="script.js"></script>
+</body>
+</html>

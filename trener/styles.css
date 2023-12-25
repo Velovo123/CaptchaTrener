@@ -1,0 +1,1128 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #383838   ;
+}
+#container{
+    text-align: center;
+}
+
+#captchaCanvas{
+    background-color: #5b7c87;
+    width: 85%;
+    height: 70%;
+    border: 10px solid #1a222d;
+}
+
+#text {
+	width: 90%;
+}
+
+#text {
+	margin-bottom: .3125pc;
+}
+
+[class~=captchaDiv] {
+	border-bottom-width: .375pc;
+}
+
+[class~=captchaDiv] {
+	border-right-width: .375pc;
+}
+
+[class~=captchaDiv] {
+	border-top-width: .375pc;
+}
+
+button:hover {
+	border-left-width: .010416667in;
+}
+
+button:hover,
+[class~=captchaDiv] {
+	border-left-style: solid;
+}
+
+[class~=captchaDiv],
+button:hover {
+	border-bottom-style: solid;
+}
+
+[class~=captchaDiv],
+button:hover {
+	border-right-style: solid;
+}
+
+button:hover {
+	border-bottom-width: .010416667in;
+}
+
+button:hover,
+[class~=captchaDiv] {
+	border-top-style: solid;
+}
+
+button:hover {
+	border-right-width: .010416667in;
+}
+
+[class~=captchaDiv] {
+	border-left-color: #1a222d;
+}
+
+
+[class~=captchaDiv] {
+	border-bottom-color: #1a222d;
+}
+
+[class~=captchaDiv] {
+	border-right-color: #1a222d;
+}
+
+[class~=captchaDiv] {
+	border-top-color: #1a222d;
+}
+
+button:hover {
+	border-top-width: .010416667in;
+}
+
+[class~=captchaDiv] {
+	border-image: none;
+}
+
+[class~=captchaDiv] {
+	padding-left: 2.25pt;
+}
+
+[class~=captchaDiv] {
+	padding-bottom: 2.25pt;
+}
+
+[class~=captchaDiv] {
+	padding-right: 2.25pt;
+}
+
+#captchaSpan {
+	user-select: none;
+}
+
+[class~=captchaDiv] {
+	padding-top: 2.25pt;
+}
+
+[class~=captchaDiv] {
+	width: 22.8125pc;
+}
+
+[class~=captchaDiv] {
+	height: 1.041666667in;
+}
+
+[class~=typeDiv],
+[class~=captchaDiv] {
+	margin-left: auto;
+}
+
+[class~=captchaDiv],
+[class~=typeDiv] {
+	margin-bottom: 250px;
+}
+
+#captchaSpan {
+	overflow-x: hidden;
+}
+
+[class~=captchaDiv],
+[class~=typeDiv] {
+	margin-right: auto;
+}
+
+[class~=captchaDiv] {
+	margin-top: 14%;
+}
+
+[class~=captchaDiv] {
+	line-height: 6.5625pc;
+}
+
+[class~=headline],
+#captchaSpan,
+body {
+	padding-left: 0;
+}
+
+#captchaSpan,
+body {
+	margin-bottom: 0;
+}
+
+[class~=headline],
+body,
+#captchaSpan {
+	padding-bottom: 0;
+}
+
+[class~=captchaDiv] {
+	white-space: normal;
+}
+
+[class~=captchaDiv],
+[class~=typeDiv] {
+	display: none;
+}
+
+[class~=typeDiv] {
+	background: rgba(0, 0, 0, .65);
+}
+
+[class~=headline],
+#captchaSpan {
+	padding-right: 0;
+}
+
+[class~=typeDiv] {
+	color: white;
+}
+
+[class~=typeDiv] {
+	width: 270px;
+}
+
+[class~=headline],
+#captchaSpan {
+	padding-top: 0;
+}
+
+body,
+#captchaSpan {
+	margin-right: 0;
+}
+
+body,
+#captchaSpan {
+	margin-top: 0;
+}
+
+#captchaSpan {
+	margin-left: 0;
+}
+
+[class~=typeDiv] {
+	margin-top: 2%;
+}
+
+[class~=headline] {
+	background: rgba(0, 0, 0, .85);
+}
+
+button:hover {
+	border-left-color: red;
+}
+
+#captchaSpan {
+	overflow-wrap: normal;
+}
+
+[class~=headline] {
+	color: #db9c81;
+}
+
+[class~=desc] {
+	padding-left: 3pt;
+}
+
+[class~=desc] {
+	padding-bottom: 3pt;
+}
+
+#captchaSpan {
+	word-wrap: normal;
+}
+
+#captchaSpan {
+	letter-spacing: 0pc;
+}
+
+[class~=desc] {
+	padding-right: 3pt;
+}
+
+#captchaSpan {
+	display: inline;
+}
+
+button:hover {
+	border-bottom-color: red;
+}
+
+[class~=desc] {
+	padding-top: 3pt;
+}
+
+#megasuperbebra {
+	width: 90%;
+}
+
+#megasuperbebra {
+	margin-bottom: .3125pc;
+}
+
+[class~=enter],
+.chat {
+	padding-bottom: .052083333in;
+}
+
+.chat {
+	padding-left: 11.25pt;
+}
+
+.chat {
+	padding-top: .4375pc;
+}
+
+#megasuperbebra {
+	padding-left: 6pt;
+}
+
+#chatArea,
+.chat {
+	width: 62.5pc;
+}
+
+#megasuperbebra {
+	padding-bottom: 6pt;
+}
+
+#megasuperbebra {
+	padding-right: 6pt;
+}
+
+.chat {
+	text-align: left;
+}
+
+.chat,
+.inputChat {
+	color: white;
+}
+
+button:hover {
+	border-right-color: red;
+}
+
+#megasuperbebra {
+	padding-top: 6pt;
+}
+
+[class~=pages],
+[class~=time],
+#chatArea,
+.inputChat {
+	position: absolute;
+}
+
+#megasuperbebra,
+.inputChat {
+	font-size: .9375pc;
+}
+
+[class~=pages] {
+	top: .041666667in;
+}
+
+[class~=typeChat] {
+	padding-top: .104166667in;
+}
+
+.inputChat {
+	width: 70%;
+}
+
+.inputChat {
+	padding-left: 4.5pt;
+}
+
+.inputChat {
+	padding-bottom: 4.5pt;
+}
+
+.inputChat {
+	padding-right: 4.5pt;
+}
+
+.inputChat {
+	padding-top: 4.5pt;
+}
+
+[class~=enter] input,
+.inputChat {
+	background: black;
+}
+
+.inputChat,
+button {
+	border-left-width: .75pt;
+}
+
+.inputChat,
+button {
+	border-bottom-width: .75pt;
+}
+
+button,
+.inputChat {
+	border-right-width: .75pt;
+}
+
+.inputChat,
+button {
+	border-top-width: .75pt;
+}
+
+body {
+	padding-right: 0;
+}
+
+body {
+	padding-top: 0;
+}
+
+body {
+	background: #383838;
+}
+
+body {
+	font-family: arial;
+}
+
+button:hover {
+	border-top-color: red;
+}
+
+#chatArea {
+	padding-left: 15px;
+}
+
+button,
+.inputChat {
+	border-left-style: solid;
+}
+
+.inputChat {
+	border-bottom-style: solid;
+}
+
+#chatArea {
+	padding-top: 1.5625pc;
+}
+
+.inputChat {
+	border-right-style: solid;
+}
+
+body {
+	overflow: hidden;
+}
+
+.inputChat {
+	border-top-style: solid;
+}
+
+.inputChat {
+	border-left-color: white;
+}
+
+.inputChat {
+	border-bottom-color: white;
+}
+
+.inputChat {
+	border-right-color: white;
+}
+
+#chatArea:focus {
+	outline: 0;
+}
+
+.inputChat {
+	border-top-color: white;
+}
+
+button:hover,
+.inputChat {
+	border-image: none;
+}
+
+#chatArea {
+	padding-bottom: 0;
+}
+
+#chatArea {
+	height: 9.6875pc;
+}
+
+button:hover {
+	transform: translateY(-2px);
+}
+
+.inputChat {
+	border-radius: .4375pc;
+}
+
+button {
+	background: black;
+}
+
+.inputChat {
+	left: 15px;
+}
+
+.inputChat {
+	top: 1.8125in;
+}
+
+[class~=valid] {
+	color: #369140;
+}
+
+button:hover {
+	transition: .1s;
+}
+
+[class~=invalid] {
+	color: #a31d1d;
+}
+
+[class~=enter] input,
+[class~=btnSelected] {
+	border-left-width: .0625pc;
+}
+
+[class~=enter] input,
+[class~=btnSelected] {
+	border-bottom-width: .0625pc;
+}
+
+#chatArea {
+	text-align: left;
+}
+
+[class~=enter] input,
+[class~=btnSelected] {
+	border-right-width: .0625pc;
+}
+
+[class~=enter] input,
+[class~=btnSelected] {
+	border-top-width: .0625pc;
+}
+
+[class~=enter] input,
+[class~=btnSelected] {
+	border-left-style: solid;
+}
+
+[class~=enter] input,
+[class~=btnSelected],
+button {
+	border-bottom-style: solid;
+}
+
+#chatArea,
+.contactA:visited {
+	color: white;
+}
+
+#chatArea {
+	background: none;
+}
+
+#chatArea {
+	border-left-width: 0;
+}
+
+[class~=enter] input,
+button,
+[class~=btnSelected] {
+	border-right-style: solid;
+}
+
+[class~=btnSelected],
+[class~=enter] input {
+	border-top-style: solid;
+}
+
+#chatArea {
+	border-bottom-width: 0;
+}
+
+[class~=btnSelected] {
+	border-left-color: red;
+}
+
+[class~=btnSelected] {
+	border-bottom-color: red;
+}
+
+[class~=btnSelected] {
+	border-right-color: red;
+}
+
+[class~=btnSelected] {
+	border-top-color: red;
+}
+
+#chatArea {
+	border-right-width: 0;
+}
+
+[class~=btnSelected] {
+	border-image: none;
+}
+
+[class~=time] {
+	font-family: gta;
+}
+
+#chatArea {
+	border-top-width: 0;
+}
+
+[class~=houseSale],
+[class~=time] {
+	user-select: none;
+}
+
+#chatArea {
+	border-left-style: none;
+}
+
+[class~=time] {
+	display: none;
+}
+
+[class~=time] {
+	color: #c1c1c3;
+}
+
+[class~=time] {
+	font-size: 85px;
+}
+
+#chatArea {
+	border-bottom-style: none;
+}
+
+[class~=time] {
+	right: 4%;
+}
+
+#chatArea {
+	border-right-style: none;
+}
+
+#chatArea {
+	border-top-style: none;
+}
+
+[class~=enter] input,
+button {
+	border-left-color: white;
+}
+
+[class~=time] {
+	bottom: 7%;
+}
+
+#chatArea {
+	border-left-color: currentColor;
+}
+
+#chatArea {
+	border-bottom-color: currentColor;
+}
+
+[class~=enter] input,
+button {
+	border-bottom-color: white;
+}
+
+[class~=time] {
+	text-shadow: -0 -.052083333in 0 #000, 0 -.052083333in 0 #000, -0 .3125pc 0 #000, 0 3.75pt 0 #000, -5px -0 0 #000, 5px -0 0 #000, -5px 0 0 #000, 5px 0 0 #000, -1px -.3125pc 0 #000, 1px -.052083333in 0 #000, -1px .3125pc 0 #000, 1px .3125pc 0 #000, -5px -.0625pc 0 #000, 5px -1px 0 #000, -5px .75pt 0 #000, 5px 1px 0 #000, -2px -.052083333in 0 #000, 2px -.052083333in 0 #000, -2px .052083333in 0 #000, 2px 3.75pt 0 #000, -5px -1.5pt 0 #000, 5px -1.5pt 0 #000, -5px 1.5pt 0 #000, 5px .020833333in 0 #000, -3px -.052083333in 0 #000, 3px -.3125pc 0 #000, -3px .3125pc 0 #000, 3px .3125pc 0 #000, -5px -.03125in 0 #000, 5px -2.25pt 0 #000, -5px 3px 0 #000, 5px 2.25pt 0 #000, -4px -.3125pc 0 #000, 4px -.052083333in 0 #000, -4px .052083333in 0 #000, 4px 5px 0 #000, -5px -.25pc 0 #000, 5px -.25pc 0 #000, -5px .041666667in 0 #000, 5px 3pt 0 #000, -5px -.052083333in 0 #000, 5px -.052083333in 0 #000, -5px 5px 0 #000, 5px .3125pc 0 #000, -5px -5px 0 #000, 5px -3.75pt 0 #000, -5px 5px 0 #000, 5px 3.75pt 0 #000;
+}
+
+[class~=month] {
+	color: #c9a353;
+}
+
+[class~=played] {
+	color: #294d20;
+}
+
+#chatArea {
+	border-right-color: currentColor;
+}
+
+[class~=playedGreen] {
+	color: #c1c1c3;
+}
+
+[class~=preloader],
+[class~=houseSale] {
+	position: absolute;
+}
+
+[class~=houseSale] {
+	bottom: 30%;
+}
+
+[class~=houseSale] {
+	left: 15%;
+}
+
+[class~=houseSale],
+[class~=preloader] {
+	text-align: center;
+}
+
+[class~=houseSale],
+[class~=enter] input {
+	color: white;
+}
+
+[class~=houseSale] {
+	text-shadow: .75pt .75pt .020833333in black;
+}
+
+button,
+[class~=enter] input {
+	border-right-color: white;
+}
+
+[class~=red] {
+	color: #ff7d76;
+}
+
+[class~=green] {
+	color: #33a739;
+}
+
+[class~=enter] input,
+button {
+	border-top-color: white;
+}
+
+#chatArea {
+	border-top-color: currentColor;
+}
+
+[class~=enter] input,
+#chatArea {
+	border-image: none;
+}
+
+[class~=grey] {
+	color: #b6b1a6;
+}
+
+#chatArea {
+	resize: none;
+}
+
+[class~=HSheadline] {
+	color: #ff9c08;
+}
+
+#chatArea {
+	font-family: arial;
+}
+
+.notice {
+	color: rgba(255, 255, 255, .3);
+}
+
+button {
+	border-top-style: solid;
+}
+
+[class~=preloader] {
+	width: 100%;
+}
+
+#chatArea {
+	font-size: .9375pc;
+}
+
+[class~=preloader] {
+	height: 100%;
+}
+
+[class~=preloader] {
+	background: black;
+}
+
+#chatArea::-webkit-scrollbar {
+	width: 0pt;
+}
+
+[class~=enter] input {
+	padding-left: .375pc;
+}
+
+[class~=preloader],
+[class~=contactA] {
+	color: white;
+}
+
+[class~=preloader] {
+	font-size: 9.375pc;
+}
+
+[class~=preloader] {
+	z-index: 500000;
+}
+
+[class~=enter] input {
+	padding-bottom: .375pc;
+}
+
+#chatArea::-webkit-scrollbar {
+	background: rgba(0, 0, 0, .2);
+}
+
+[class~=enter] input {
+	padding-right: .375pc;
+}
+
+[class~=preloader] {
+	display: block;
+}
+
+#homeGos,
+#payday,
+#chatInpt {
+	display: none;
+}
+
+[class~=enter] input {
+	padding-top: .375pc;
+}
+
+[class~=preloader],
+[class~=contactA] {
+	font-family: "Raleway", sans-serif;
+}
+
+[class~=versia] {
+	font-size: 11.25pt;
+}
+
+[class~=enter] input {
+	border-radius: .4375pc;
+}
+
+button {
+	border-image: none;
+}
+
+.text-blur-out {
+	animation: text-blur-out 1.2s cubic-bezier(.55, .085, .68, .53) both;
+}
+
+.text-blur-out {
+	animation-delay: 800ms;
+}
+
+[class~=contactA] {
+	background: #4680c2;
+}
+
+#payday {
+	font-family: gta;
+}
+
+[id~=hideControl],
+#openControl,
+[class~=contactA],
+.rights,
+#payday,
+#record,
+[id~=changeKey] {
+	position: absolute;
+}
+
+[class~=contactA] {
+	bottom: 2%;
+}
+
+#payday {
+	color: #ba954d;
+}
+
+[class~=contactA] {
+	right: 1.5%;
+}
+
+#payday {
+	font-size: 100px;
+}
+
+[class~=enter] input {
+	margin-top: 2.25pt;
+}
+
+#payday {
+	right: 6%;
+}
+
+#payday {
+	bottom: 10%;
+}
+
+#payday {
+	text-shadow: -0 -.052083333in 0 #000, 0 -5px 0 #000, -0 .052083333in 0 #000, 0 5px 0 #000, -5px -0 0 #000, 5px -0 0 #000, -5px 0 0 #000, 5px 0 0 #000, -1px -5px 0 #000, 1px -3.75pt 0 #000, -1px .3125pc 0 #000, 1px 5px 0 #000, -5px -1px 0 #000, 5px -.010416667in 0 #000, -5px .75pt 0 #000, 5px .75pt 0 #000, -2px -.3125pc 0 #000, 2px -3.75pt 0 #000, -2px 3.75pt 0 #000, 2px 5px 0 #000, -5px -1.5pt 0 #000, 5px -.020833333in 0 #000, -5px .020833333in 0 #000, 5px 1.5pt 0 #000, -3px -.052083333in 0 #000, 3px -3.75pt 0 #000, -3px 3.75pt 0 #000, 3px .052083333in 0 #000, -5px -.1875pc 0 #000, 5px -2.25pt 0 #000, -5px 2.25pt 0 #000, 5px 3px 0 #000, -4px -.3125pc 0 #000, 4px -5px 0 #000, -4px 5px 0 #000, 4px .052083333in 0 #000, -5px -.041666667in 0 #000, 5px -.041666667in 0 #000, -5px .25pc 0 #000, 5px .041666667in 0 #000, -5px -.3125pc 0 #000, 5px -3.75pt 0 #000, -5px .052083333in 0 #000, 5px .052083333in 0 #000, -5px -.052083333in 0 #000, 5px -5px 0 #000, -5px .052083333in 0 #000, 5px .052083333in 0 #000;
+}
+
+[class~=contactA] {
+	height: .46875in;
+}
+
+[class~=contactA] {
+	width: 67.5pt;
+}
+
+#record,
+button,
+[id~=changeKey],
+[id~=hideControl],
+.rights,
+[class~=contactA]:hover,
+#openControl,
+#control #removeMode {
+	color: white;
+}
+
+.contactA:visited,
+[class~=contactA] {
+	text-decoration: none;
+}
+
+[class~=contactA],
+.rights {
+	text-align: center;
+}
+
+[class~=enter] button {
+	width: 30%;
+}
+
+[class~=desc] span {
+	color: #c6db86;
+}
+
+#homeNotGos {
+	display: block;
+}
+
+[class~=contactA] {
+	font-size: 26.25pt;
+}
+
+[class~=contactA] {
+	border-radius: 400px;
+}
+
+[class~=contactA] {
+	line-height: 2.8125pc;
+}
+
+[class~=contactA] {
+	box-shadow: 0 0 11.25pt rgba(255, 255, 255, .3);
+}
+
+[class~=contactA] {
+	transition-duration: .25s;
+}
+
+/* [class~=changeKey] {
+	bottom: 1.5%;
+} */
+
+/* [class~=changeKey] {
+	left: 1%;
+} */
+
+[class~=preloader] div {
+	padding-top: 10%;
+}
+
+/* [class~=changeKey] {
+	padding-left: .072916667in;
+} */
+
+/* [class~=changeKey] {
+	padding-bottom: .072916667in;
+} */
+
+/* [class~=changeKey] {
+	padding-right: .072916667in;
+} */
+
+#openControl {
+	font-size: .260416667in;
+}
+
+/* [class~=changeKey] {
+	padding-top: .072916667in;
+} */
+
+[id~=changeKey] {
+	background: rgba(0, 0, 0, .6);
+}
+
+[id~=changeKey] {
+	transition-duration: .3s;
+}
+
+#record,
+.rights {
+	font-family: "Raleway", sans-serif;
+}
+
+#openControl {
+	right: 3%;
+}
+
+.rights,
+#record {
+	width: 100%;
+}
+
+.rights {
+	bottom: 1%;
+}
+
+#openControl {
+	top: 1.875pc;
+}
+
+[class~=rights]::selection {
+	background: #2ecc71;
+}
+
+#openControl,
+#record {
+	display: none;
+}
+
+[class~=rights]::selection {
+	color: black;
+}
+
+#record {
+	font-size: 30pt;
+}
+
+.rights {
+	font-size: .75pc;
+}
+
+[id~=hideControl] {
+	font-size: .9375pc;
+}
+
+#record {
+	bottom: 4%;
+}
+
+button {
+	padding-left: .375pc;
+}
+
+button {
+	padding-bottom: .375pc;
+}
+
+button {
+	padding-right: .375pc;
+}
+
+#recordS {
+	font-size: 30px;
+}
+
+button {
+	padding-top: .375pc;
+}
+
+button {
+	border-radius: .4375pc;
+}
+
+button {
+	margin-top: 2.25pt;
+}
+
+[class~=contactA]:hover {
+	box-shadow: 0 0 .364583333in rgba(255, 255, 255, .6);
+}
+
+[class~=contactA]:hover {
+	transform: scale(1.1) translateY(-5px);
+}
+
+[id~=changeKey]:hover {
+	background: rgba(0, 0, 0, 1);
+}
+
+@keyframes text-blur-out {
+	0% {
+		filter: blur(.01);
+	}
+	100% {
+		filter: blur(12px) opacity(0%);
+	}
+}
+
+[class~=swing-in-top-fwd] {
+	animation: swing-in-top-fwd .5s cubic-bezier(.175, .885, .32, 1.275) both;
+}
+
+[class~=swing-in-top-fwd] {
+	animation-delay: 300ms;
+}
+
+@keyframes swing-in-top-fwd {
+	0% {
+		transform: rotateX(-100deg);
+		transform-origin: top;
+		opacity: 0;
+	}
+	100% {
+		transform: rotateX(0deg);
+		transform-origin: top;
+		opacity: 1;
+	}
+}
+
+[class~=seo] {
+	display: none;
+}
+
+[class~=bebrochka] {
+    bottom: 70.5%;
+    position: absolute;
+    right: 2%;
+    padding-left: 1.072916667in;
+    padding-bottom: 0.272916667in;
+    padding-right: 0.072916667in;
+    padding-top: 0.072916667in;
+    transition-duration: .3s;
+    color: white;
+}
+
+
